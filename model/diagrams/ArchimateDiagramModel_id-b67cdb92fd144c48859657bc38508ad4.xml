@@ -617,6 +617,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-503615160e42497db7b32bea0fe66604"
         targetConnections="id-95d7dc51b9c7430ab0e6a9400a2a70c4 id-497732fc9614475596fd70693ea6e05a id-bf86221043d2484993b40aa11dc42ef3 id-0b1e956583c148cbba9560d77a86a0b3"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#74cb8a"
         textPosition="1">
       <bounds
