@@ -2004,12 +2004,38 @@
         textPosition="1">
       <bounds
           x="996"
-          y="24"
+          y="42"
           width="265"
-          height="121"/>
+          height="107"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-83ea504082b547c3a22a8daec7487861.xml#id-83ea504082b547c3a22a8daec7487861"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8c00020b106c421494f48cdacce1df2c"
+        textPosition="1">
+      <bounds
+          x="204"
+          y="42"
+          width="262"
+          height="107"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-13c49e28708441908b7810a18036dbff.xml#id-13c49e28708441908b7810a18036dbff"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9f1d56683cdf45c6bb96d306af71690a"
+        textPosition="1">
+      <bounds
+          x="465"
+          y="42"
+          width="244"
+          height="107"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-5b6d5b35a0b04894a33c9ebea92fe2f9.xml#id-5b6d5b35a0b04894a33c9ebea92fe2f9"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
