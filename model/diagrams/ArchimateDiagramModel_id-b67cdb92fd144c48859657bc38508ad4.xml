@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overview"
+    name="Full_work"
     id="id-b67cdb92fd144c48859657bc38508ad4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -617,6 +617,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-503615160e42497db7b32bea0fe66604"
         targetConnections="id-95d7dc51b9c7430ab0e6a9400a2a70c4 id-497732fc9614475596fd70693ea6e05a id-bf86221043d2484993b40aa11dc42ef3 id-0b1e956583c148cbba9560d77a86a0b3"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#74cb8a"
         textPosition="1">
       <bounds
@@ -2939,15 +2940,6 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-acb407dc888b451e95d034bdd4bcb528.xml#id-acb407dc888b451e95d034bdd4bcb528"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3d43bc8c66a746ca978ef62e1e0b9c6b"
-        source="id-0531eee4af7b4e038d0e111f69485b48"
-        target="id-65f5ed7ea7484c629b0623c29038c06e">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-1eaf3295ef4e4ad6889ff0b48f53d401.xml#id-1eaf3295ef4e4ad6889ff0b48f53d401"/>
-    </sourceConnections>
     <bounds
         x="1008"
         y="606"
@@ -3034,18 +3026,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-ad8e588832864c6f92c0bcb1cffc805c.xml#id-ad8e588832864c6f92c0bcb1cffc805c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-65f5ed7ea7484c629b0623c29038c06e"
-      targetConnections="id-3d43bc8c66a746ca978ef62e1e0b9c6b">
-    <bounds
-        x="984"
-        y="742"
-        width="156"
-        height="39"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-af11145c8741492985cc7683aaca5612.xml#id-af11145c8741492985cc7683aaca5612"/>
   </children>
 </archimate:ArchimateDiagramModel>
