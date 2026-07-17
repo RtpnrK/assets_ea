@@ -4,6 +4,18 @@
     name="Full_work"
     id="id-b67cdb92fd144c48859657bc38508ad4">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0a9ee4357cca495698d572a9a6f3678a"
+      name="Application"
+      textAlignment="1"
+      fillColor="#ccfdfd">
+    <bounds
+        x="84"
+        y="576"
+        width="9468"
+        height="456"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3b2e117f77c54f82aaad6973ae4dde44"
       targetConnections="id-cdc2473602dc4a67886359de542530bb id-24b20b90d26349cf87e661b03ef33364"
