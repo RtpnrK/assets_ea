@@ -4,6 +4,18 @@
     name="Full_work"
     id="id-b67cdb92fd144c48859657bc38508ad4">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0a9ee4357cca495698d572a9a6f3678a"
+      name="Application"
+      textAlignment="1"
+      fillColor="#ccfdfd">
+    <bounds
+        x="84"
+        y="576"
+        width="9468"
+        height="456"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3b2e117f77c54f82aaad6973ae4dde44"
       targetConnections="id-cdc2473602dc4a67886359de542530bb id-24b20b90d26349cf87e661b03ef33364"
@@ -1444,6 +1456,25 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-cc7e28330566434b968058d8285a100a.xml#id-cc7e28330566434b968058d8285a100a"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-855df17324234eeeb5b09a16b9d3fae5"
+          source="id-62f217d03cc24a43ad016d2bce332185"
+          target="id-3acaa3a68b274ea88a77d6f7979c4d91">
+        <bendpoints
+            startX="-257"
+            startY="8"
+            endX="1476"
+            endY="-422"/>
+        <bendpoints
+            startX="-257"
+            startY="464"
+            endX="1476"
+            endY="34"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-495c2ddc0acb497a9d8cbae53dd0674f.xml#id-495c2ddc0acb497a9d8cbae53dd0674f"/>
       </sourceConnections>
       <bounds
           x="540"
@@ -2901,7 +2932,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3acaa3a68b274ea88a77d6f7979c4d91"
-      targetConnections="id-e7ee3e08dd9046b699f391689b1fafae"
+      targetConnections="id-e7ee3e08dd9046b699f391689b1fafae id-855df17324234eeeb5b09a16b9d3fae5"
       textPosition="1">
     <bounds
         x="2544"
