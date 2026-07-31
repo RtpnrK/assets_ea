@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d84302c4755d4c739c094798874c939c"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#80ffff">
     <bounds
         x="24"
         y="419"
@@ -19,7 +20,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-816e55da514a436cb36b4195350120bd"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#9fcfff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4e1972ad91144980aa1fc5ef4cf19554"
@@ -39,7 +41,7 @@
         id="id-e40b2bc445ee49148697b2709183f94a"
         targetConnections="id-4e1972ad91144980aa1fc5ef4cf19554"
         textAlignment="1"
-        fillColor="#b5e1ff">
+        fillColor="#d0ecff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d539b9e5a27c46b1a3ebf0372c6245b6"
@@ -58,7 +60,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-68e919cc3dad40ba8d1f4485458e0df4"
           targetConnections="id-33321f26c86c4e58bb681ca8b62e8e70 id-d539b9e5a27c46b1a3ebf0372c6245b6"
-          fillColor="#b5e1ff"
+          fillColor="#d0ecff"
           textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -102,7 +104,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-547fbe17433b43e9b1eaf92e8d8d3d71"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffff80">
     <bounds
         x="888"
         y="419"
@@ -138,7 +141,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3267db242cb5486caab0739198b81a26"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffff80">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1a60d95d30664e80b568441f346a5dc7"
@@ -1801,7 +1805,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d207f461102540e5a10c6311eaf46cf2"
       targetConnections="id-7eb78f4d232f455193d563e792dc5949 id-aa578ddacbd9427bbc11bfe3ac6498ba id-f8d702895ac241b9933fccb7c7171d77 id-478bb506f871494f832d2b01edaf5692"
-      fillColor="#b5e1ff"
+      fillColor="#d0ecff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1834,7 +1838,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5c6b633c6a06405e9b107823c1003106"
       targetConnections="id-7460b5b43af44e0c8f517f6c2ffd9976 id-5650bba172354cf28801442122c141ac id-51a6fe921a704bbb97a7cd77242ab347"
-      fillColor="#b5e1ff"
+      fillColor="#d0ecff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1867,7 +1871,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1c8d4e8c1bcb45d1be98b4f6377f9d34"
       targetConnections="id-1c021182b8f640378f02c1b2d85ee12b id-4375fb9f4bae4e728aa5911e096efd73"
-      fillColor="#b5e1ff">
+      fillColor="#d0ecff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c6b14d27d2184b15bef9578c9dadf484"
@@ -1885,7 +1889,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a1296480d6ae4caf970eb5a1cc6b2b9c"
-        fillColor="#b5e1ff"
+        fillColor="#d0ecff"
         textPosition="1">
       <bounds
           x="24"
@@ -1899,7 +1903,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0372186e76344cbd9c1fd4c1572b8de0"
-        fillColor="#b5e1ff"
+        fillColor="#d0ecff"
         textPosition="1">
       <bounds
           x="168"
@@ -1918,7 +1922,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b8f5ed0a196646df9f73bac038d63f98"
       targetConnections="id-0eb72fe3514a4b5ebba72995edfad0ea id-b4b1177921c14f7b8b48ed2a2cad125f id-226f084a590542b7a8418feb1aece077 id-5e093b2e65904e7d87f9d76ddf53004f id-c6b14d27d2184b15bef9578c9dadf484"
-      fillColor="#b5e1ff"
+      fillColor="#c6ffff"
       textPosition="1">
     <bounds
         x="108"

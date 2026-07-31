@@ -117,7 +117,7 @@
             href="CompositionRelationship_id-b173dae33c1348a1a41effef672934fa.xml#id-b173dae33c1348a1a41effef672934fa"/>
       </sourceConnections>
       <bounds
-          x="96"
+          x="48"
           y="252"
           width="457"
           height="313"/>
@@ -302,8 +302,8 @@
             href="CompositionRelationship_id-228ff042de25496aa70072c34ecb70eb.xml#id-228ff042de25496aa70072c34ecb70eb"/>
       </sourceConnections>
       <bounds
-          x="816"
-          y="306"
+          x="660"
+          y="324"
           width="457"
           height="205"/>
       <children
@@ -387,7 +387,7 @@
       <bounds
           x="48"
           y="84"
-          width="242"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
@@ -400,7 +400,7 @@
       <bounds
           x="48"
           y="156"
-          width="241"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
@@ -411,9 +411,9 @@
         id="id-bb65e345803d4a8c9a576f9c198ffebc"
         textPosition="1">
       <bounds
-          x="357"
+          x="301"
           y="156"
-          width="196"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
@@ -424,7 +424,7 @@
         id="id-b8051d24b9e7423abdb3570608591afa"
         textPosition="1">
       <bounds
-          x="357"
+          x="301"
           y="84"
           width="204"
           height="55"/>
@@ -441,8 +441,8 @@
       id="id-5e0d5c6343954dbcb022d51664c5c549"
       textPosition="1">
     <bounds
-        x="384"
-        y="732"
+        x="192"
+        y="744"
         width="420"
         height="96"/>
     <archimateElement

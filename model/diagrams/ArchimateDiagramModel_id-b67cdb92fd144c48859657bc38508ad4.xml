@@ -8,12 +8,25 @@
       id="id-0a9ee4357cca495698d572a9a6f3678a"
       name="Application"
       textAlignment="1"
-      fillColor="#ccfdfd">
+      fillColor="#ccfdfd"
+      borderType="1">
     <bounds
         x="84"
         y="576"
-        width="9468"
+        width="9456"
         height="456"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-32884c87c50a4db8b959e816f10b6275">
+      <bounds
+          x="96"
+          y="336"
+          width="216"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-a4af8ccefaaf4d5ebcb74bad8ea79a1b.xml#id-a4af8ccefaaf4d5ebcb74bad8ea79a1b"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
