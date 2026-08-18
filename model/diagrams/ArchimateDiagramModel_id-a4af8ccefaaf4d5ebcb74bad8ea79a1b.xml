@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ร้องเรียน"
+    name="กระบวนการร้องเรียน"
     id="id-a4af8ccefaaf4d5ebcb74bad8ea79a1b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -694,8 +694,8 @@
             width="188"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-2663bc17b6a4448b9cebefbc4e495d33.xml#id-2663bc17b6a4448b9cebefbc4e495d33"/>
+            xsi:type="archimate:BusinessEvent"
+            href="BusinessEvent_id-dc9801578a304d55847c996422f00370.xml#id-dc9801578a304d55847c996422f00370"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessActor"

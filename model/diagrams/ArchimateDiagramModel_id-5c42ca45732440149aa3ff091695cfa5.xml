@@ -398,8 +398,8 @@
             width="241"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-2663bc17b6a4448b9cebefbc4e495d33.xml#id-2663bc17b6a4448b9cebefbc4e495d33"/>
+            xsi:type="archimate:BusinessEvent"
+            href="BusinessEvent_id-dc9801578a304d55847c996422f00370.xml#id-dc9801578a304d55847c996422f00370"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -1626,8 +1626,8 @@
             source="id-ec01d11a01d74393b9be167307f20fb0"
             target="id-72400b6f4ebc48dea777cf2cad7c67f5">
           <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_id-339bb5e306a74fbcb6f4b0752de85677.xml#id-339bb5e306a74fbcb6f4b0752de85677"/>
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-472e59dda38045f89a2cbc8bab707d7d.xml#id-472e59dda38045f89a2cbc8bab707d7d"/>
         </sourceConnections>
         <bounds
             x="264"
@@ -1674,8 +1674,8 @@
               width="193"
               height="37"/>
           <archimateElement
-              xsi:type="archimate:ApplicationService"
-              href="ApplicationService_id-83ea504082b547c3a22a8daec7487861.xml#id-83ea504082b547c3a22a8daec7487861"/>
+              xsi:type="archimate:ApplicationComponent"
+              href="ApplicationComponent_id-c091d1a985bc49239da57ec4e55a8dc3.xml#id-c091d1a985bc49239da57ec4e55a8dc3"/>
         </children>
         <archimateElement
             xsi:type="archimate:ApplicationInterface"
