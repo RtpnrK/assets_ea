@@ -1406,4 +1406,20 @@
           height="320"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9ddc46a7d7a74648b8ccb570dbf4e92c"
+      font="1|Angsana New|36.0|1|WINDOWS|1|-60|0|0|0|700|0|0|0|0|3|2|1|18|Angsana New"
+      content="ยื่นและรับบัญชีทรัพย์สิน"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="95"
+        y="-24"
+        width="1897"
+        height="109"/>
+  </children>
 </archimate:ArchimateDiagramModel>

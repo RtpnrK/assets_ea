@@ -284,7 +284,7 @@
             x="12"
             y="24"
             width="216"
-            height="84"/>
+            height="72"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-f61218a6e7304a518d36c2151c551a1d.xml#id-f61218a6e7304a518d36c2151c551a1d"/>
@@ -982,5 +982,21 @@
           width="204"
           height="300"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bd5fcc20f67b47c3a2b8177779defe3f"
+      font="1|Angsana New|36.0|1|WINDOWS|1|-60|0|0|0|700|0|0|0|0|3|2|1|18|Angsana New"
+      content="การพิจารณาหลักเกณฑ์"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="-169"
+        y="-204"
+        width="2053"
+        height="109"/>
   </children>
 </archimate:ArchimateDiagramModel>
