@@ -27,8 +27,8 @@
     </sourceConnections>
     <bounds
         x="96"
-        y="60"
-        width="1441"
+        y="72"
+        width="1021"
         height="601"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -302,8 +302,8 @@
             href="CompositionRelationship_id-228ff042de25496aa70072c34ecb70eb.xml#id-228ff042de25496aa70072c34ecb70eb"/>
       </sourceConnections>
       <bounds
-          x="660"
-          y="324"
+          x="528"
+          y="360"
           width="457"
           height="205"/>
       <children
@@ -435,18 +435,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-276687d34d134d1c9b6b4b1d93f306af.xml#id-276687d34d134d1c9b6b4b1d93f306af"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5e0d5c6343954dbcb022d51664c5c549"
-      textPosition="1">
-    <bounds
-        x="192"
-        y="744"
-        width="420"
-        height="96"/>
-    <archimateElement
-        xsi:type="archimate:Device"
-        href="Device_id-0fe98ff3dc8f47ada018634b53d8c3de.xml#id-0fe98ff3dc8f47ada018634b53d8c3de"/>
   </children>
 </archimate:ArchimateDiagramModel>

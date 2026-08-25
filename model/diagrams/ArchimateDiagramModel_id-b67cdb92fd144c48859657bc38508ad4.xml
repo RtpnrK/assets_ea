@@ -186,7 +186,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3b2e117f77c54f82aaad6973ae4dde44"
-      targetConnections="id-cdc2473602dc4a67886359de542530bb id-24b20b90d26349cf87e661b03ef33364"
+      targetConnections="id-24b20b90d26349cf87e661b03ef33364"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -592,27 +592,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-76d1812461f949ba892db860ddd0f030.xml#id-76d1812461f949ba892db860ddd0f030"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-cdc2473602dc4a67886359de542530bb"
-          source="id-90b6c7a5b4d545229c0cf2cef56e3b2f"
-          target="id-3b2e117f77c54f82aaad6973ae4dde44">
-        <features
-            name="labelExpression"
-            value="ยื่น Online"/>
-        <bendpoints
-            startX="-4"
-            startY="164"
-            endX="-246"
-            endY="-164"/>
-        <bendpoints
-            startX="320"
-            startY="177"
-            endY="-171"/>
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-c9e017dfdfae44069bd3653689ac3ce1.xml#id-c9e017dfdfae44069bd3653689ac3ce1"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

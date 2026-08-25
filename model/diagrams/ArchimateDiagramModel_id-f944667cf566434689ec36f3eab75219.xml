@@ -24,6 +24,9 @@
         id="id-2476b350f8d34210a6c8d429d65752a6"
         targetConnections="id-df51e0005da64fe5a1fb62973d4b3a01"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fc665f0f065d495d96c902467e00a150"
@@ -75,6 +78,9 @@
         id="id-e397bb0bc2f545e89399bb44e40f860d"
         targetConnections="id-1760af3ac1754e51b47debcacc56a885 id-fc665f0f065d495d96c902467e00a150"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-af08ac927ef64beba1ce6096d0bc997e"
@@ -117,6 +123,9 @@
         id="id-95e097762a72433fbc73b42e41063595"
         targetConnections="id-af08ac927ef64beba1ce6096d0bc997e id-1f0a9431e91c486e84d0c47df06f131b"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1d398a630c2d4546b201507dde5217bb"
@@ -178,6 +187,9 @@
         id="id-982ac0924fb448408e56cc72028dec36"
         targetConnections="id-e9426fc538954d1f8072721a1f2974df id-1d398a630c2d4546b201507dde5217bb"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-763060772beb4ad4aca6ae1c7d93b455"
@@ -201,6 +213,9 @@
         id="id-10a2b7a4b10d4a97ba3278a123b5b8b5"
         targetConnections="id-c856a9058f4c4aaa872b25f199aad708 id-763060772beb4ad4aca6ae1c7d93b455 id-d7a803dde18c466d91a21de57e14b702"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4fb01e4d28d246bd81a4bc365c7a7031"
@@ -224,6 +239,9 @@
         id="id-be40d7c3158b405da68ad0b02dfc98a5"
         targetConnections="id-4fb01e4d28d246bd81a4bc365c7a7031 id-cda7c4033d664fb096731098ea3ac7b7"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8cc9abe883944121a154026289f8b6ee"
@@ -244,9 +262,8 @@
             endX="396"
             endY="-135"/>
         <bendpoints
-            startX="-450"
+            startX="-258"
             startY="204"
-            endX="-12"
             endY="-135"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -258,9 +275,9 @@
           source="id-be40d7c3158b405da68ad0b02dfc98a5"
           target="id-a114b132bd8e4cb59ab3ba248dab88e8">
         <bendpoints
-            startX="30"
+            startX="42"
             startY="192"
-            endX="-18"
+            endX="-6"
             endY="-146"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -272,9 +289,9 @@
           source="id-be40d7c3158b405da68ad0b02dfc98a5"
           target="id-39968cf2a0d5496aa287399aee6dd5af">
         <bendpoints
-            startX="30"
+            startX="66"
             startY="204"
-            endX="-186"
+            endX="-150"
             endY="-134"/>
         <bendpoints
             startX="222"
@@ -299,6 +316,9 @@
         id="id-e30191d459d2491ba09099d45fbded91"
         targetConnections="id-e1a944ceb97f410b961261fb358e8e0b id-8cc9abe883944121a154026289f8b6ee"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <bounds
           x="1704"
           y="108"
@@ -316,7 +336,7 @@
       font="1|Angsana New|28.2|1|WINDOWS|1|-47|0|0|0|700|0|0|0|0|3|2|1|18|Angsana New"
       lineWidth="2"
       textAlignment="1"
-      fillColor="#ffdbdb"
+      fillColor="#fce6cf"
       borderType="1">
     <features
         name="deriveElementLineColor"
@@ -329,7 +349,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-226aaa02fa56439eb17a96ceb412ef3b"
-        fillColor="#ffb9b9"
+        fillColor="#f9d2ac"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -352,7 +372,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a4c3b85043df41f9b8b979a339fcbb35"
-        fillColor="#ffb9b9"
+        fillColor="#f9d2ac"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -384,7 +404,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-86fa83dffc0448b385bf1e3a7f708f1c"
-        fillColor="#ffb9b9"
+        fillColor="#f9d2ac"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -451,7 +471,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f13053e8dd0a45bea5ef182df42449ac"
         targetConnections="id-824a7e5249264e6d961389c616b019bc"
-        fillColor="#ffb9b9"
+        fillColor="#f9d2ac"
         textPosition="1">
       <features
           name="deriveElementLineColor"
@@ -487,7 +507,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-98b87f23076d4ca5a49371e43d0af37d"
-        fillColor="#ffb9b9"
+        fillColor="#f9d2ac"
         textPosition="1">
       <features
           name="deriveElementLineColor"
@@ -542,6 +562,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7228e13e78524e019aeefa861a435da6"
         targetConnections="id-8bd1b82eae174a50a02fc66834881f4a">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e97e4d7adfa44faaa148da75fe2a0d9b"
@@ -561,6 +584,9 @@
           id="id-c97dfd3e708c4df6a0ed0da68603c3a8"
           targetConnections="id-e97e4d7adfa44faaa148da75fe2a0d9b id-36c3ce9677874263895ce814846ab3a2"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="36"
             y="48"
@@ -577,6 +603,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1fad13c15f974ea38ac1ce3e64357f62">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4b710613835d49cc97d8474564c17936"
@@ -632,6 +661,9 @@
           id="id-6a8ec6b0b7af4be7aaefabea45ee9159"
           targetConnections="id-4b710613835d49cc97d8474564c17936 id-bf7b9f3c3a9d4f91b2ba56c50ada955a"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="36"
             y="48"
@@ -646,6 +678,9 @@
           id="id-d2b1b11196df48a08ed72d8e8d78b845"
           targetConnections="id-73472466785c4698b7bc5aeae67706b2 id-48a2f62399154df285915e46425638cf"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-66ea49d33af84d4b86768eca87e0d8ca"
@@ -679,6 +714,9 @@
           id="id-ab86b0ea5a6d43a885c9ebcfcc549213"
           targetConnections="id-409be6dff66243208ebc396f2d7976bb id-ea96921a2a3d407094843a6384355242"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="408"
             y="48"
@@ -693,6 +731,9 @@
           id="id-b34c05b923304a28ba34491ff626603a"
           targetConnections="id-61beae5539284cd982b4c62cdd6f28c5 id-bbf6be5efdfe46ae8e59924a6ff05937"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="552"
             y="48"
@@ -740,6 +781,9 @@
           id="id-a114b132bd8e4cb59ab3ba248dab88e8"
           targetConnections="id-709a31cb6cd845fd821102670ec2beeb id-895582417b3342baba2d4291be1e01e4"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="36"
             y="48"
@@ -754,6 +798,9 @@
           id="id-39968cf2a0d5496aa287399aee6dd5af"
           targetConnections="id-c91329bdfa834e428b91bade32a291f0 id-95e339d99ecc491b846957162774ce74"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="204"
             y="48"
@@ -860,6 +907,9 @@
         id="id-4907fad67ac94fdd951768fd439d3ce5"
         targetConnections="id-66ea49d33af84d4b86768eca87e0d8ca id-15f87131748f425b94e39d9a2a952a13"
         fillColor="#bfdfff">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8bd1b82eae174a50a02fc66834881f4a"
@@ -921,6 +971,9 @@
           targetConnections="id-c079e2b1e2f94b13aaba0247a9a334c0"
           fillColor="#bfdfff"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="24"
             y="60"
@@ -936,6 +989,9 @@
           targetConnections="id-cf20c49d1aeb4f8fbf6e38e8e714a512"
           fillColor="#bfdfff"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="264"
             y="60"
@@ -951,6 +1007,9 @@
           targetConnections="id-ec034d43f4eb4253822e44517c38537b"
           fillColor="#bfdfff"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="24"
             y="132"
@@ -966,6 +1025,9 @@
           targetConnections="id-3d798987880942bd979ab0d6712aea3f"
           fillColor="#bfdfff"
           textPosition="1">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
         <bounds
             x="264"
             y="132"
@@ -985,6 +1047,9 @@
         targetConnections="id-41e81f69a14a4a799453b2800ae9289f"
         fillColor="#bfdfff"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <bounds
           x="852"
           y="84"
