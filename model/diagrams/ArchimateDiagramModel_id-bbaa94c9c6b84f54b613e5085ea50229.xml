@@ -514,9 +514,6 @@
       textAlignment="1"
       fillColor="#fce6cf"
       borderType="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <bounds
         x="36"
         y="60"

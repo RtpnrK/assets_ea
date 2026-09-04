@@ -151,10 +151,6 @@
           id="id-b0921661331f4669b324d86152492d7c"
           source="id-fa1a145b38924526817850575d6a0ea5"
           target="id-6bd0430bb5504577a29cf2b2519992e0">
-        <bendpoints
-            startX="30"
-            startY="216"
-            endY="-184"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-c9e017dfdfae44069bd3653689ac3ce1.xml#id-c9e017dfdfae44069bd3653689ac3ce1"/>
@@ -298,17 +294,20 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-af9eb0e256964727b86e88119e1b521d"
+          id="id-064b0069b7254d3d9450cf58967b0861"
           source="id-14d1aee3cf4f462cadf92d8b2e42117a"
-          target="id-e24aae56dff3463c9cfa9ef3b7708895">
+          target="id-793f7411f9bf49589338165e4e71bce1">
+        <features
+            name="labelExpression"
+            value="ครบกำหนดระยะเวลา"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-370ce1a44d18424eb3a1b34fd140c83f.xml#id-370ce1a44d18424eb3a1b34fd140c83f"/>
+            href="TriggeringRelationship_id-445cf96426b4422aadd5489c908bb39d.xml#id-445cf96426b4422aadd5489c908bb39d"/>
       </sourceConnections>
       <bounds
-          x="408"
+          x="396"
           y="228"
-          width="133"
+          width="121"
           height="112"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -385,22 +384,52 @@
           href="BusinessProcess_id-aa33ba79b79e421089786f9ebd3446f0.xml#id-aa33ba79b79e421089786f9ebd3446f0"/>
     </children>
     <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-847a41f2262040e8ab68e7cf02c1e284"
+        content="Flow ตรวจสอบบัญชีผิดปกติ"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="618"
+          y="324"
+          width="181"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3eb41f3d0c3d476ea4d482c2d3e75063"
+        content="Flow ตรวจสอบบัญชีและจัดทำรายงาน"
+        textPosition="1"
+        borderType="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="1536"
+          y="24"
+          width="229"
+          height="44"/>
+    </children>
+    <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e24aae56dff3463c9cfa9ef3b7708895"
-        targetConnections="id-af9eb0e256964727b86e88119e1b521d"
+        id="id-793f7411f9bf49589338165e4e71bce1"
+        targetConnections="id-064b0069b7254d3d9450cf58967b0861"
         textPosition="1"
         type="1">
       <features
           name="deriveElementLineColor"
           value="false"/>
       <bounds
-          x="612"
-          y="260"
+          x="672"
+          y="254"
           width="73"
           height="60"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-762fb81400f347cd80972af6ade82392.xml#id-762fb81400f347cd80972af6ade82392"/>
+          href="BusinessProcess_id-2880b6ba911d4b0fb1600d6087f46f22.xml#id-2880b6ba911d4b0fb1600d6087f46f22"/>
     </children>
   </children>
   <children
@@ -412,9 +441,6 @@
       textAlignment="1"
       fillColor="#fce6cf"
       borderType="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
     <bounds
         x="96"
         y="48"
@@ -696,12 +722,12 @@
             target="id-746ea089083e4e57aa0901da1db2f99a">
           <bendpoints
               startX="48"
-              startY="128"
+              startY="123"
               endX="-744"
               endY="-204"/>
           <bendpoints
-              startX="636"
-              startY="128"
+              startX="612"
+              startY="123"
               endX="-180"
               endY="-204"/>
           <archimateRelationship
@@ -710,9 +736,9 @@
         </sourceConnections>
         <bounds
             x="72"
-            y="36"
+            y="48"
             width="145"
-            height="61"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-fde66634b2bc433d98760e4e299e66a7.xml#id-fde66634b2bc433d98760e4e299e66a7"/>
@@ -984,6 +1010,25 @@
         <features
             name="deriveElementLineColor"
             value="false"/>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-b99c93f23b1a47db875cbabad82266cc"
+            source="id-e54be304dd5a4177bb6028aa987a69e7"
+            target="id-746ea089083e4e57aa0901da1db2f99a">
+          <bendpoints
+              startX="-30"
+              startY="122"
+              endX="300"
+              endY="-204"/>
+          <bendpoints
+              startX="-222"
+              startY="122"
+              endX="108"
+              endY="-204"/>
+          <archimateRelationship
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-99c55fedfd5a4d77b02a241ed3db6280.xml#id-99c55fedfd5a4d77b02a241ed3db6280"/>
+        </sourceConnections>
         <bounds
             x="36"
             y="48"
@@ -1428,7 +1473,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-746ea089083e4e57aa0901da1db2f99a"
-        targetConnections="id-59242536bbd14b7e9b809cc05b43dd43 id-941da4e0ce774aa8ad6ac11697dfca6b"
+        targetConnections="id-59242536bbd14b7e9b809cc05b43dd43 id-941da4e0ce774aa8ad6ac11697dfca6b id-b99c93f23b1a47db875cbabad82266cc"
         textAlignment="1"
         fillColor="#bfdfff">
       <features
@@ -1511,20 +1556,6 @@
           xsi:type="archimate:DataObject"
           href="DataObject_id-0a30bc7f2e814540bc6393dad1adbb02.xml#id-0a30bc7f2e814540bc6393dad1adbb02"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-5012b4dbe69e417888044d4166a0b830"
-        name="Legend"
-        textAlignment="1">
-      <features
-          name="legend"
-          value="display=15,rows=15,offset=0,color=1,sort=1"/>
-      <bounds
-          x="1608"
-          y="27"
-          width="210"
-          height="320"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -1541,5 +1572,19 @@
         y="-72"
         width="1839"
         height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5012b4dbe69e417888044d4166a0b830"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="1944"
+        y="952"
+        width="210"
+        height="320"/>
   </children>
 </archimate:ArchimateDiagramModel>
